@@ -1,4 +1,4 @@
-# Security-Audit-Framework
+# Security-Audit-Framework (The following is a simulated exercise, with a fictional company from my coursework with Google Coursera)
 ---
 (Overview) 
 Simulated corporate security audit focusing on vulnerability discovery, risk assessment and mitigation strategies.
